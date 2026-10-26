@@ -19,6 +19,8 @@ Key highlights include:
 - 📈 **Stat Maxer** — allocates workout time optimally across all stats for the fastest max build
 - 🏆 **Rank Climb** — queues and wins fights automatically to progress through every rank tier
 
+### [⬇️ Download Gym League Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
